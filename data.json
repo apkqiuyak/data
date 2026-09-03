@@ -781,19 +781,19 @@
             "name": "Mặc Định",
             "subtitle": "Lính mặc định",
             "minionId": 93000,
-            "data": "https://hypercheats.vn/public/download/png/linh_macdinh.png"
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/normal.png"
         },
         {
             "name": "Thám Tử Lừng Danh Conan",
             "subtitle": "Trang phục lính siêu cấp - Collab",
             "minionId": 93001,
-            "data": "https://hypercheats.vn/public/download/png/linhconan.png"
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/conan.png"
         },
         {
             "name": "Chuyển Sinh Thành Slime",
             "subtitle": "Yêu tinh, tấn công! - Collab",
             "minionId": 93002,
-            "data": "https://hypercheats.vn/public/download/png/linhslime.png"
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/cinnamon.png"
         },
         {
             "name": "Biệt đội Cinnamon Desert",
@@ -803,7 +803,7 @@
         },
         {
             "name": "Turbo Bà Bà",
-            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/IMG_0402.png",
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/turbo.png",
             "minionId": 93005,
             "subtitle": "Collab Dandadan"
         },
@@ -811,7 +811,7 @@
             "name": "Titan, Tiến công",
             "subtitle": "Biệt đội Cinnamon Desert - Collab",
             "minionId": 93004,
-            "data": "https://hypercheats.vn/public/download/png/linhtitan.png"
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/.png"
         }
     ]
 }
