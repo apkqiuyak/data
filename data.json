@@ -793,13 +793,13 @@
             "name": "Chuyển Sinh Thành Slime",
             "subtitle": "Yêu tinh, tấn công! - Collab",
             "minionId": 93002,
-            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/cinnamon.png"
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/goblin.png"
         },
         {
             "name": "Biệt đội Cinnamon Desert",
             "subtitle": "Biệt đội Cinnamon Desert - Collab",
             "minionId": 93003,
-            "data": "https://hypercheats.vn/public/download/png/linhcinna.png"
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/cinnamon.png"
         },
         {
             "name": "Turbo Bà Bà",
@@ -811,7 +811,7 @@
             "name": "Titan, Tiến công",
             "subtitle": "Biệt đội Cinnamon Desert - Collab",
             "minionId": 93004,
-            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/.png"
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/titan.png"
         }
     ]
 }
