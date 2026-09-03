@@ -796,16 +796,16 @@
             "data": "https://hypercheats.vn/public/download/png/linhslime.png"
         },
         {
-            "name": "Turbo Bà Bà",
-            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/IMG_0402.png",
-            "minionId": 93005,
-            "subtitle": "Collab Dandadan"
-        },
-        {
             "name": "Biệt đội Cinnamon Desert",
             "subtitle": "Biệt đội Cinnamon Desert - Collab",
             "minionId": 93003,
             "data": "https://hypercheats.vn/public/download/png/linhcinna.png"
+        },
+        {
+            "name": "Turbo Bà Bà",
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/IMG_0402.png",
+            "minionId": 93005,
+            "subtitle": "Collab Dandadan"
         },
         {
             "name": "Titan, Tiến công",
