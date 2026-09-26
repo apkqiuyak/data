@@ -75,9 +75,6 @@
             19,
             20
         ],
-        "521": [
-            13
-        ],
         "524": [
             14
         ],
@@ -109,671 +106,1419 @@
     },
     "killOptions": [
         {
-            "name": "Mặc Định",
+            "name": "Mặc Định Theo Skin",
             "killMode": 0,
-            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/notify_icon/macdinh.PNG"
+            "data": ""
         },
         {
             "name": "Airi Thứ Nguyên Vệ Thần",
             "killMode": 12,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao12.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao12.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013015head.jpg"
+        },
+        {
+            "name": "Alice Eternal Sailor Chibi Moon",
+            "killMode": 5,
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao5.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3011812head.jpg"
         },
         {
             "name": "Allain Lân Sư Vũ Thần",
             "killMode": 30,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao30.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao30.png",
+            "heroId": 537,
+            "skinId": 8,
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305378head.jpg"
         },
         {
-            "name": "Aoi Mikasa",
+            "name": "Aoi Mikasa Ackerman",
             "killMode": 60,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao60.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao60.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3053612head.jpg"
         },
         {
-            "name": "Arthur Pompompurin Oath",
+            "name": "Athur Pompompurin Oath",
             "killMode": 53,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao53.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao53.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3016612head.jpg"
         },
         {
             "name": "Aya Cinnamoroll Dream",
             "killMode": 52,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao52.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao52.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305439head.jpg"
         },
         {
             "name": "Aya Công Chúa Cầu Vồng",
             "killMode": 17,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao17.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao17.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305437head.jpg"
         },
         {
             "name": "Bijan Lữ Hành Thời Không",
             "killMode": 44,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao44.png"
-        },
-        {
-            "name": "Billow Okarun",
-            "killMode": 66,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao66.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao44.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305485head.jpg"
         },
         {
             "name": "Biron Yuji Itadori",
             "killMode": 24,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao24.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao24.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305972head.jpg"
         },
         {
             "name": "Butterfly Bình Minh Tận Thế",
             "killMode": 32,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao32.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao32.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3011620head.jpg"
         },
         {
             "name": "Butterfly Thánh Nữ Khởi Nguyên",
             "killMode": 7,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao7.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao7.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3011616head.jpg"
         },
         {
-            "name": "Capheny BugCat Assemble",
+            "name": "Capheny Bugcat Assemble",
             "killMode": 43,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao43.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao43.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3052415head.jpg"
         },
         {
             "name": "Capheny Càn Nguyên Điện Chủ",
             "killMode": 29,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao29.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao29.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3052414head.jpg"
         },
         {
-            "name": "Cresh Eren",
+            "name": "Cresh Eren Jeager",
             "killMode": 62,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao62.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao62.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301718head.jpg"
         },
         {
             "name": "Điêu Thuyền Eternal Sailor Moon",
             "killMode": 4,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao4.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao4.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015212head.jpg"
         },
         {
             "name": "Điêu Thuyền Nhật Nguyệt Thánh Linh",
             "killMode": 58,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao58.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao58.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015217head.jpg"
         },
         {
             "name": "Eland'orr Mộng Giới Thần Chủ",
             "killMode": 47,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao47.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao47.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301998head.jpg"
         },
         {
             "name": "Eland'orr Tuxedo Mặt Nạ",
             "killMode": 6,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao6.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao6.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301996head.jpg"
         },
         {
             "name": "Elsu Xạ Thần Mộng Giới",
             "killMode": 46,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao46.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao46.png",
+            "heroId": 196,
+            "skinId": 14,
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3019614head.jpg"
         },
         {
             "name": "Enzo Kurapika",
             "killMode": 8,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao8.png"
-        },
-        {
-            "name": "Gildur Jiji",
-            "killMode": 67,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao67.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao8.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301958head.jpg"
         },
         {
             "name": "Grakk Thần Ẩm Thực",
             "killMode": 14,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao14.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao14.png",
+            "heroId": 175,
+            "skinId": 17,
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3017517head.jpg"
         },
         {
             "name": "Hayate Siêu Đạo Chích Kid",
             "killMode": 36,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao36.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao36.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013213head.jpg"
         },
         {
             "name": "Hayate Thứ Nguyên Vệ Thần",
             "killMode": 64,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao64.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao64.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013215head.jpg"
         },
         {
             "name": "Hayate Tu Di Thánh Đế",
             "killMode": 2,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao2.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao2.png",
+            "heroId": 132,
+            "skinId": 10,
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013210head.jpg"
         },
         {
             "name": "Iggy Rimuru Tempest",
             "killMode": 50,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao50.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao50.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305386head.jpg"
         },
         {
             "name": "Ilumia Lưỡng Nghi Long Hậu",
             "killMode": 26,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao26.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao26.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013613head.jpg"
         },
         {
             "name": "Kaine Thợ Săn Chính Nghĩa",
             "killMode": 37,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao37.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao37.png",
+            "heroId": 153,
+            "skinId": 6,
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301536head.jpg"
         },
         {
             "name": "Krixi Phù Thuỷ Thời Không",
             "killMode": 19,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao19.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao19.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3010620head.jpg"
         },
         {
             "name": "Lauriel Thứ Nguyên Vệ Thần",
             "killMode": 49,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao49.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao49.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3014111head.jpg"
         },
         {
             "name": "Liliana Ma Pháp Tối Thượng",
             "killMode": 23,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao23.png"
-        },
-        {
-            "name": "Maloch Aov Day 2026",
-            "killMode": 63,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao63.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao23.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3051015head.jpg"
         },
         {
             "name": "Marja Hi Phi",
             "killMode": 56,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao56.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao56.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301217head.jpg"
         },
         {
-            "name": "Murad Thần Tài",
+            "name": "Maloch Đấu Sĩ Đoạt Thẻ",
+            "killMode": 63,
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao63.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3012312head.jpg"
+        },
+        {
+            "name": "Murad Thần Pháo Hoa",
             "killMode": 57,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao57.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao57.png",
+            "heroId": 131,
+            "skinId": 19,
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013119head.jpg"
         },
         {
             "name": "Murad Thiên Luân Kiếm Thánh",
             "killMode": 21,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao21.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao21.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013118head.jpg"
         },
         {
             "name": "Murad Tuyệt Thế Thần Binh",
             "killMode": 13,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao13.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao13.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013116head.jpg"
         },
         {
             "name": "Nakroth Bạch Diện Chiến Thương",
             "killMode": 20,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao20.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao20.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015015head.jpg"
         },
         {
             "name": "Nakroth Killua",
             "killMode": 9,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao9.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao9.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015012head.jpg"
         },
         {
-            "name": "Nakroth Levi",
+            "name": "Nakroth Levi Ackerman",
             "killMode": 61,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao61.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao61.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015016head.jpg"
         },
         {
             "name": "Nakroth Producer Tia Chớp",
             "killMode": 18,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao18.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao18.png",
+            "heroId": 150,
+            "skinId": 14,
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015014head.jpg"
         },
         {
             "name": "Nakroth Quỷ Thương Liệp Đế",
             "killMode": 16,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao16.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao16.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015013head.jpg"
         },
         {
             "name": "Nakroth Thứ Nguyên Vệ Thần",
             "killMode": 45,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao45.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao45.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301509head.jpg"
         },
         {
             "name": "Natalia Kuromi Heart",
             "killMode": 54,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao54.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao54.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3014214head.jpg"
         },
         {
             "name": "Ngộ Không Tân Niên Võ Thánh",
             "killMode": 3,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao3.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao3.png",
+            "heroId": 167,
+            "skinId": 10,
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3016710head.jpg"
         },
         {
             "name": "Paine Megumi Fushiguro",
             "killMode": 34,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao34.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao34.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301376head.jpg"
         },
         {
             "name": "Qi Milim Nava",
             "killMode": 51,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao51.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao51.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305289head.jpg"
         },
         {
             "name": "Raz Gon",
             "killMode": 10,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao10.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao10.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015711head.jpg"
         },
         {
             "name": "Stuart Siêu Trùm Phản Diện",
             "killMode": 42,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao42.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao42.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301748head.jpg"
         },
         {
             "name": "Tel'Annas Lân Quang Thánh Điệu",
             "killMode": 31,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao31.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao31.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3050119head.jpg"
         },
         {
             "name": "Tel'Annas Thứ Nguyên Vệ Thần",
             "killMode": 38,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao38.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao38.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305018head.jpg"
         },
         {
             "name": "Triệu Vân Thần Tài",
             "killMode": 1,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao1.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao1.png",
+            "heroId": 129,
+            "skinId": 10,
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3012910head.jpg"
         },
         {
             "name": "Tulen Satoru Gojo",
             "killMode": 25,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao25.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao25.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3019015head.jpg"
         },
         {
             "name": "Tulen Thiên Cơ Bạch Trạch",
             "killMode": 59,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao59.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao59.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3019016head.jpg"
         },
         {
             "name": "Valhein Thứ Nguyên Vệ Thần",
             "killMode": 27,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao27.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao27.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013314head.jpg"
         },
         {
             "name": "Veera My Melody Love",
             "killMode": 55,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao55.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao55.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3010916head.jpg"
         },
         {
             "name": "Veera Phù Thuỷ Hội Hoạ",
             "killMode": 22,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao22.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao22.png",
+            "heroId": 109,
+            "skinId": 14,
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3010914head.jpg"
         },
         {
             "name": "Veres Lưu Ly Long Mẫu",
             "killMode": 15,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao15.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao15.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3052011head.jpg"
         },
         {
             "name": "Violet Nobara Kugisaki",
             "killMode": 33,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao33.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao33.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3011120head.jpg"
         },
         {
-            "name": "VioLet Thứ Nguyên Vệ Thần",
+            "name": "Violet Thứ Nguyên Vệ Thần",
             "killMode": 28,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao28.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao28.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301117head.jpg"
         },
         {
             "name": "Yena Huyền Cửu Thiên",
             "killMode": 11,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao11.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao11.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015412head.jpg"
         },
         {
             "name": "Yorn Conan Edogawa",
             "killMode": 35,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao35.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao35.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3011215head.jpg"
         },
         {
             "name": "Yue Hỗn Độn Thần Ma",
             "killMode": 48,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao48.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao48.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305457head.jpg"
+        },
+        {
+            "name": "Billow Okarun",
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao66.png",
+            "killMode": 66,
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305993head.jpg"
+        },
+        {
+            "name": "Gildur Jiji",
+            "data": "https://dl.ops.kgth.garenanow.com/TH/BoBao/bobao67.png",
+            "killMode": 67
         }
     ],
     "heroOptions": [
         {
-            "name": "Mặc Định",
+            "name": "Mặc Định Theo Skin",
             "skinId": 0,
-            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/nut_macdinh.png"
+            "data": ""
         },
         {
             "name": "Airi Thứ Nguyên Vệ Thần",
             "skinId": 12,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13015.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13015.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013015head.jpg"
         },
         {
-            "name": "Aoi Mikasa",
+            "name": "Alice Eternal Sailor Chibi Moon",
+            "skinId": 5,
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11812.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3011812head.jpg"
+        },
+        {
+            "name": "Aoi Mikasa Ackerman",
             "skinId": 70,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/53612.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/53612.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3053612head.jpg"
         },
         {
-            "name": "Arthur Pompompurin Oath",
+            "name": "Athur Pompompurin Oath",
             "skinId": 58,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/16612.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/16612.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3016612head.jpg"
         },
         {
             "name": "Aya Cinnamoroll Dream",
             "skinId": 60,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/54309.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/54309.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305439head.jpg"
         },
         {
             "name": "Aya Công Chúa Cầu Vồng",
             "skinId": 16,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/54307.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/54307.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305437head.jpg"
         },
         {
-            "name": "Baron Thiên Phủ Tư Mệnh",
+            "name": "Bolt Baron Thiên Phủ Tư Mệnh",
             "skinId": 29,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59802.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59802.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305982head.jpg"
         },
         {
             "name": "Bijan Lữ Hành Thời Không",
             "skinId": 39,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/54805.png"
-        },
-        {
-            "name": "Billow Okarun",
-            "skinId": 80,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59903.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/54805.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305485head.jpg"
         },
         {
             "name": "Billow T-Rex Bất Bại",
             "skinId": 56,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59902.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59902.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305992head.jpg"
         },
         {
             "name": "Billow Thiên Tướng Độ Ách",
             "skinId": 28,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59901.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59901.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305991head.jpg"
         },
         {
             "name": "Biron Yuji Itadori",
             "skinId": 22,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59702.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59702.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305972head.jpg"
         },
         {
             "name": "Butterfly Bình Minh Tận Thế",
             "skinId": 33,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11620.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11620.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3011620head.jpg"
         },
         {
             "name": "Butterfly Kim Ngư Thần Nữ",
             "skinId": 6,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11614.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11614.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3011614head.jpg"
         },
         {
             "name": "Butterfly Thánh Nữ Khởi Nguyên",
             "skinId": 7,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11616.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11616.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3011616head.jpg"
         },
         {
             "name": "Capheny Bugcat Assemble",
             "skinId": 49,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/52415.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/52415.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3052415head.jpg"
         },
         {
             "name": "Capheny Càn Nguyên Điện Chủ",
             "skinId": 27,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/52414.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/52414.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3052414head.jpg"
         },
         {
-            "name": "Cresh Eren",
+            "name": "Cresh Eren Jeager",
             "skinId": 71,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/17108.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/17108.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301718head.jpg"
         },
         {
             "name": "Dolia Mã Khởi Thiên Ca",
             "skinId": 67,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15905.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15905.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301595head.jpg"
         },
         {
             "name": "Dolia Nhật Ký Tình Yêu",
             "skinId": 47,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15903.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15903.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301593head.jpg"
         },
         {
-            "name": "Elandorr Mộng Giới Thần Chủ",
+            "name": "Điêu Thuyền Eternal Sailor Moon",
+            "skinId": 2,
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15212.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015212head.jpg"
+        },
+        {
+            "name": "Điêu Thuyền Nhật Nguyệt Thánh Linh",
+            "skinId": 64,
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15217.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015217head.jpg"
+        },
+        {
+            "name": "Eland'orr Mộng Giới Thần Chủ",
             "skinId": 53,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/19908.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/19908.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301998head.jpg"
         },
         {
-            "name": "Elandorr Tuxedo Mặt Nạ",
+            "name": "Eland'orr Tuxedo Mặt Nạ",
             "skinId": 3,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/19906.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/19906.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301996head.jpg"
+        },
+        {
+            "name": "Enzo Kurapika",
+            "skinId": 9,
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/19508.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301958head.jpg"
         },
         {
             "name": "Florentino Kỷ Nguyên Hổ Phách",
             "skinId": 37,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/52113.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/52113.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3052113head.jpg"
         },
         {
-            "name": "Gildur Jiji",
-            "skinId": 81,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/10812.png"
-        },
-        {
-            "name": "Hayate Kaito Kid",
+            "name": "Hayate Siêu Đạo Chích Kid",
             "skinId": 46,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13213.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13213.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013213head.jpg"
         },
         {
             "name": "Hayate Thứ Nguyên Vệ Thần",
             "skinId": 76,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13215.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13215.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013215head.jpg"
         },
         {
-            "name": "Iggy Rimuru",
+            "name": "Iggy Rimuru Tempest",
             "skinId": 54,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/53806.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/53806.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305386head.jpg"
         },
         {
             "name": "Ilumia Lưỡng Nghi Long Hậu",
             "skinId": 24,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13613.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13613.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013613head.jpg"
         },
         {
             "name": "Krixi Kimono",
             "skinId": 64,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/10618.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/10618.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3010618head.jpg"
         },
         {
             "name": "Krixi Phù Thuỷ Thời Không",
             "skinId": 19,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/10620.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/10620.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3010620head.jpg"
         },
         {
             "name": "Lauriel Mã Đằng Cứu Thế",
             "skinId": 65,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/14120.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/14120.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3014120head.jpg"
         },
         {
             "name": "Lauriel Thứ Nguyên Vệ Thần",
             "skinId": 65,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/14111.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/14111.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3014111head.jpg"
         },
         {
             "name": "Liliana Ma Pháp Tối Thượng",
             "skinId": 21,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/51015.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/51015.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3051015head.jpg"
         },
         {
             "name": "Marja Hi Phi",
             "skinId": 62,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/12107.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/12107.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301217head.jpg"
         },
         {
             "name": "Murad Thiên Luân Kiếm Thánh",
             "skinId": 20,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13118.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13118.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013118head.jpg"
         },
         {
             "name": "Murad Tuyệt Thế Thần Binh",
             "skinId": 11,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13116.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13116.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013116head.jpg"
         },
         {
-            "name": "Nakroth Bạch diện chiến thương",
+            "name": "Nakroth Bạch Diện Chiến Thương",
             "skinId": 17,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15015.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15015.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015015head.jpg"
         },
         {
             "name": "Nakroth Killua",
             "skinId": 10,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15012.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15012.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015012head.jpg"
         },
         {
-            "name": "Nakroth Levi",
+            "name": "Nakroth Levi Ackerman",
             "skinId": 72,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15016.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15016.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015016head.jpg"
         },
         {
             "name": "Nakroth Quỷ Thương Liệp Đế",
             "skinId": 15,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15013.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15013.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015013head.jpg"
         },
         {
             "name": "Nakroth Thứ Nguyên Vệ Thần",
             "skinId": 52,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15009.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15009.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301509head.jpg"
         },
         {
             "name": "Natalia Kuromi Heart",
             "skinId": 59,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/14214.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/14214.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3014214head.jpg"
         },
         {
-            "name": "Natalya Thiên Mệnh Ma Thuật",
+            "name": "Natalya Phù Thuỷ Bóng Đêm",
             "skinId": 77,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/14215.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/14215.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3014215head.jpg"
         },
         {
             "name": "Omen Liệt Hoả Thiên Cang",
             "skinId": 63,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/50613.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/50613.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3050613head.jpg"
         },
         {
-            "name": "Paine Cửu Sơn Tương Liễu",
+            "name": "Paine Cửu Đầu Tương Liễu",
             "skinId": 74,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13707.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13707.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301377head.jpg"
         },
         {
-            "name": "Paine Megumi",
+            "name": "Paine Megumi Fushiguro",
             "skinId": 35,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13706.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13706.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301376head.jpg"
         },
         {
-            "name": "Qi Annie",
+            "name": "Qi Annie Leonhard",
             "skinId": 73,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/52810.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/52810.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3052810head.jpg"
         },
         {
-            "name": "Qi Milim",
+            "name": "Qi Milim Nava",
             "skinId": 55,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/52809.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/52809.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305289head.jpg"
         },
         {
             "name": "Raz Gon",
             "skinId": 8,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15711.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15711.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015711head.jpg"
         },
         {
             "name": "Rouie Linh Sứ Thời Không",
             "skinId": 40,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/19109.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/19109.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301919head.jpg"
         },
         {
             "name": "Stuart Siêu Trùm Phản Diện",
             "skinId": 42,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/17408.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/17408.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301748head.jpg"
         },
         {
             "name": "Tel'Annas Kỷ Nguyên Hổ Phách",
             "skinId": 38,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/50120.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/50120.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3050120head.jpg"
         },
         {
             "name": "Tel'Annas Lân Quang Thánh Điệu",
             "skinId": 32,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/50119.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/50119.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3050119head.jpg"
         },
         {
             "name": "Tel'Annas Thứ Nguyên Vệ Thần",
             "skinId": 44,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/50108.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/50108.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305018head.jpg"
         },
         {
             "name": "Triệu Vân Chiến Thần Vô Song",
             "skinId": 43,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/12913.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/12913.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3012913head.jpg"
         },
         {
-            "name": "Tulen Gojo",
+            "name": "Tulen Satoru Gojo",
             "skinId": 23,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/19015.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/19015.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3019015head.jpg"
         },
         {
             "name": "Tulen Thiên Cơ Bạch Trạch",
             "skinId": 75,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/19016.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/19016.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3019016head.jpg"
         },
         {
             "name": "Valhein Mã Hành Vạn Lý",
             "skinId": 68,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13316.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13316.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013316head.jpg"
         },
         {
             "name": "Valhein Thứ Nguyên Vệ Thần",
             "skinId": 25,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13314.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/13314.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013314head.jpg"
         },
         {
             "name": "Veera My Melody Love",
             "skinId": 61,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/10916.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/10916.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3010916head.jpg"
         },
         {
             "name": "Veera Thất Sát Thượng Sinh",
             "skinId": 30,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/10915.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/10915.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3010915head.jpg"
         },
         {
-            "name": "Veera Momo",
-            "skinId": 82,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/10917.png"
+            "name": "Veres Lưu Ly Long Mẫu",
+            "skinId": 14,
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/52011.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3052011head.jpg"
         },
         {
-            "name": "Violet Nobara",
+            "name": "Violet Nobara Kugisaki",
             "skinId": 34,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11120.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11120.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3011120head.jpg"
         },
         {
             "name": "Violet Thần Long Tỷ Tỷ",
             "skinId": 4,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11115.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11115.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3011115head.jpg"
         },
         {
             "name": "Violet Thứ Nguyên Vệ Thần",
             "skinId": 26,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11107.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11107.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301117head.jpg"
         },
         {
             "name": "Yena Huyền Cửu Thiên",
             "skinId": 13,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15412.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15412.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015412head.jpg"
         },
         {
             "name": "Yena Trấn Yêu Thần Lộc",
             "skinId": 31,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15413.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15413.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3015413head.jpg"
         },
         {
-            "name": "Yorn Conan",
+            "name": "Yorn Conan Edogawa",
             "skinId": 45,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11215.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11215.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3011215head.jpg"
         },
         {
-            "name": "Yue Hỗn độn thần ma",
+            "name": "Yue Hỗn Độn Thần Ma",
             "skinId": 48,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/54507.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/54507.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305457head.jpg"
         },
         {
             "name": "Zephys Kỷ Nguyên Hổ Phách",
             "skinId": 36,
-            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/10714.png"
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/10714.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3010714head.jpg"
+        },
+        {
+            "name": "Billow Okarun",
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59903.png",
+            "skinId": 3,
+            "heroId": 599,
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305993head.jpg"
+        },
+        {
+            "name": "Gildur (Skin 12)",
+            "skinId": 12,
+            "heroId": 108,
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/10812.png"
+        }
+    ],
+    "equipOptions": [
+        {
+            "name": "Kiếm Ngắn",
+            "equipId": 1111,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon2e47616ebfaf6569b90f705b86600dc55ef41367e43541.png"
+        },
+        {
+            "name": "Dao Găm",
+            "equipId": 1112,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d0892f500e089e6e24d02a65ba5fe048583eaaa57aa961.png"
+        },
+        {
+            "name": "Găng Tay",
+            "equipId": 1113,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconad6ef58a9c119afbe9fce74b3025b1c95ef413c1a087b1.png"
+        },
+        {
+            "name": "Chuỳ Máu",
+            "equipId": 1114,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon3b486c0c20f8e67265b3ccd88aa0cc615ef413d98e41b1.png"
+        },
+        {
+            "name": "Chuỳ Xích",
+            "equipId": 1115,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a888ca6d4b74729819ffa78263621f7c583eab330ef401.png"
+        },
+        {
+            "name": "Sách Phép",
+            "equipId": 1211,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1108678613455e7b64ca9507065db8d5583eb07ed42e91.png"
+        },
+        {
+            "name": "Nhẫn Lapis",
+            "equipId": 1212,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icona33a692bf196ac687212c8bd472e4a655ef4142a343721.png"
+        },
+        {
+            "name": "Dây Chuyền Ma Thuật",
+            "equipId": 1213,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon43d3c483d428cf8f1e7a4b03fff7356b5ef4143e8db341.png"
+        },
+        {
+            "name": "Sách Cổ",
+            "equipId": 1214,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a1f23877567b4d9b450624aa7b6a99f9583eb0df82d641.png"
+        },
+        {
+            "name": "Nhẫn Ma Pháp",
+            "equipId": 1215,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/447da6386d8e761eea825726bd9bf224583eb1046a87b1.png"
+        },
+        {
+            "name": "Nhẫn Hồng Ngọc",
+            "equipId": 1311,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon84752d478c1737c85f2eb77a063cb11a5ef4145c956231.png"
+        },
+        {
+            "name": "Giáp Nhẹ",
+            "equipId": 1312,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1e01e847498a4e8ac12a56b22189783d583eb1929d05a1.png"
+        },
+        {
+            "name": "Găng Giác Đấu",
+            "equipId": 1313,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon60c31461246a65b82f647310a13cc35b5ef41468c818d1.png"
+        },
+        {
+            "name": "Bùa Sức Mạnh",
+            "equipId": 1314,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon9b4b623c7f5f3db68735401591039e6e59eec0dfee3aa1.png"
+        },
+        {
+            "name": "Dây Chuyền Hồng Ngọc",
+            "equipId": 1315,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconc297c6ca61d3e8715eea595918f2b1d15ef49a36db0c01.png"
+        },
+        {
+            "name": "Giày Thép",
+            "equipId": 1411,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/de8cb12606b2dd64c2a2ae53225453395875f0551a9091.png"
+        },
+        {
+            "name": "Rựa Thợ Săn",
+            "equipId": 1511,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconfaba84adb480e565d9815a2b898bb8995bcd9218e940c1.jpg"
+        },
+        {
+            "name": "Nguyên Tố Bảo Thạch",
+            "equipId": 1611,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icona78636f147efe1ac850a5495c044a9565ef2df9dd61a31.png"
+        },
+        {
+            "name": "Kiếm Dài",
+            "equipId": 1121,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/05beffe85dbc5379e596f4719db29918583eab4bd2b8b1.png"
+        },
+        {
+            "name": "Chuỳ Cổ",
+            "equipId": 1122,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/184d423b3a6e763b0238f31b0f9b28f583eab794ea9b1.png"
+        },
+        {
+            "name": "Song Đao",
+            "equipId": 1123,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a1f25b14e89dff8b8512abda77f54c3c583eab9aa21001.png"
+        },
+        {
+            "name": "Thương Đấu Sĩ",
+            "equipId": 1124,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/90f53ba831f13f5a01df70376b561701583eabc0c7d101.png"
+        },
+        {
+            "name": "Phi Tiêu",
+            "equipId": 1129,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2621c9b1fed23acd4be27b91dfa78e38583eac94287361.png"
+        },
+        {
+            "name": "Huyết Ảnh Đao",
+            "equipId": 1151,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2025/07/Huyet-dao.png"
+        },
+        {
+            "name": "Huyết Cung",
+            "equipId": 1130,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/11/huyet-cung.png"
+        },
+        {
+            "name": "Gươm Uriel",
+            "equipId": 1125,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icone8e8d84ac94fa585c3a9661cce80fbf159eebe5b292891.png"
+        },
+        {
+            "name": "Đao Truy Hồn",
+            "equipId": 11210,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon39afcfcf7b6f28bebbf64b598f7f586b59f0056b0a4811.png"
+        },
+        {
+            "name": "Liềm Đoạt Mệnh",
+            "equipId": 11271,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6e4830c854d7f71dd8ad51b25d9abffd5965d8cb4027d1.png"
+        },
+        {
+            "name": "Cung Tà Ma",
+            "equipId": 1145,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconcaa38dc0fdd84ce09ed77e83e1cfb2eb5ef414c91c8131.png"
+        },
+        {
+            "name": "Thương Khung Kiếm",
+            "equipId": 1149,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/6db8867b63ea27f159d706fc6a85783e658d54fc54c591.png"
+        },
+        {
+            "name": "Xạ Nhật Cung",
+            "equipId": 1148,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon6bc7c27ebfd950b0fe16493db552c983658d55e7787b81.png"
+        },
+        {
+            "name": "Sớ Ma Thuật",
+            "equipId": 1221,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/585ee3fa8a1f94fd26d8e0336e534609583eb11f66eac1.png"
+        },
+        {
+            "name": "Gươm Nguyên Tố",
+            "equipId": 1223,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/73bcd25e5a2f1139dec8c7b09c8b8650583eb15c7cce91.png"
+        },
+        {
+            "name": "Mặt Nạ Ma Quái",
+            "equipId": 1224,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/77650eb45ea686167327f9128590dc53583eb194634c31.png"
+        },
+        {
+            "name": "Phượng Hoàng Lệ",
+            "equipId": 1225,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16bdc639fcd2451b890a545c4b09f6e1583eb1c5c672e1.png"
+        },
+        {
+            "name": "Vòng Đức Hạnh",
+            "equipId": 1226,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/87e8108995142053f4c9404279233a20583eb207e77931.png"
+        },
+        {
+            "name": "Huyết Trượng",
+            "equipId": 1222,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d9e5acef68f2f58e65fbb98a8be457ff583eb23412f3a1.png"
+        },
+        {
+            "name": "Trượng Hỗn Mang",
+            "equipId": 1231,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconb1d589bb71a28a6cb2c3f9f5bbb2e5a05976f9dd872e81.png"
+        },
+        {
+            "name": "Dây Chuyền Lục Bảo",
+            "equipId": 1244,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon8103b0d6e1a14ff19e46c13910e854115976f9749f2ac1.png"
+        },
+        {
+            "name": "Cầu Chiêm Tinh",
+            "equipId": 1247,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/11/cau-chiem-tinh.png"
+        },
+        {
+            "name": "Xuyên Tâm Lệnh",
+            "equipId": 1240,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a93be23a737e4619fa8539820f25a8725e453576be69c1.png"
+        },
+        {
+            "name": "Sách Truy Hồn",
+            "equipId": 12211,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c9420fcfd346612dd10cfc7cc3ca9b575965da11b6b361.png"
+        },
+        {
+            "name": "Thệ Ước Carano",
+            "equipId": 1249,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2025/07/The-uoc-Carano.jpg"
+        },
+        {
+            "name": "Giáp Thống Khổ",
+            "equipId": 1327,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/1daf820a0922c35d2b4dfe54082d35f2583eb43c655ad1.png"
+        },
+        {
+            "name": "Tim Incubus",
+            "equipId": 1322,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/d0d241f0a2a236806b000ff5241f9802583eb2a658eed1.png"
+        },
+        {
+            "name": "Đai Kháng Phép",
+            "equipId": 1323,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/72ed5eddefd9d571f0db1fc9527d2f22583eb2fa338c81.png"
+        },
+        {
+            "name": "Găng Bạch Kim",
+            "equipId": 1324,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f38b144529e66db02a901c175847440b583eb3271e7d01.png"
+        },
+        {
+            "name": "Giáp Hiệp Sĩ",
+            "equipId": 1325,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8126b39e85bcfef53fad3131bafc2cd5583eb36918dac1.png"
+        },
+        {
+            "name": "Giáp Chân",
+            "equipId": 1321,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b776c4c957f4e6f1e947e06686743a8c583eb243203f71.png"
+        },
+        {
+            "name": "Hercules Thịnh Nộ",
+            "equipId": 1328,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconce863be5ae7f9884727b453959c033e159eebee5cca801.png"
+        },
+        {
+            "name": "Giáp Cuồng Nộ",
+            "equipId": 1338,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f1221bb1919f19d0ffd7aa3b9d521248583eb5022028c1.png"
+        },
+        {
+            "name": "Giày Hộ Vệ",
+            "equipId": 1421,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/0b2a528cdd009437b1635def58e353675875f09318ffd1.png"
+        },
+        {
+            "name": "Giày Kiên Cường",
+            "equipId": 1422,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3a856551539a716067add52f8fc65bc65875f0c7db9e51.png"
+        },
+        {
+            "name": "Giày Thuật Sĩ",
+            "equipId": 1423,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/114e22fe9d424beb6fe4aca5c456c5c35875f0f2d82ec1.png"
+        },
+        {
+            "name": "Giày Phù Thuỷ",
+            "equipId": 1424,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/85bfb0396118e0b32f1e3f4b34911d235875f11c6208c1.png"
+        },
+        {
+            "name": "Giày Du Mục",
+            "equipId": 1425,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3ff001f7078fc0b3f77e9ec7b283e2735875f14d9d0a31.png"
+        },
+        {
+            "name": "Giày Hermes",
+            "equipId": 1426,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b86b4a1e5a5c3801f0c11fd76a8cbe0c5875f18bcc5ec1.png"
+        },
+        {
+            "name": "Gươm Hiến Tế",
+            "equipId": 1522,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/13ecad971cf548f39cbf6d46243665725875ecda3ef671.png"
+        },
+        {
+            "name": "Rìu Gnoll",
+            "equipId": 1521,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/059cb0940752f504cfa9c07a88362cf45875ed3ea79971.png"
+        },
+        {
+            "name": "Đao Truy Kích",
+            "equipId": 1523,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/65a0e3833daa8a27a33a72e7e4e7494e5875ed8cb51931.png"
+        },
+        {
+            "name": "Cung Gió Lốc",
+            "equipId": 1524,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3e4d4da0fbaef18cc27b280233abd8585ac48ccdb8a361.png"
+        },
+        {
+            "name": "Thổ Hệ Bảo Thạch",
+            "equipId": 1621,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2級輔助裝-坦.png"
+        },
+        {
+            "name": "Hoả Hệ Bảo Thạch",
+            "equipId": 1623,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2級輔助裝-法.png"
+        },
+        {
+            "name": "Thương Longinus",
+            "equipId": 1137,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e31c3c90f650c04ebdb29ea2ca200265583eacda186ed1.png"
+        },
+        {
+            "name": "Kiếm Fafnir",
+            "equipId": 1126,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/96fd7b63339a3f0e510781f375eb356d583ead06b76221.png"
+        },
+        {
+            "name": "Thánh Kiếm",
+            "equipId": 1133,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon48a62735ee508f6a920e823fafd9b21159eebea8e613f1.png"
+        },
+        {
+            "name": "Kiếm Muramasa",
+            "equipId": 1127,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icone607457dda37172782dc9180e3cd036a59eebe79887cd1.png"
+        },
+        {
+            "name": "Quỷ Kiếm",
+            "equipId": 1132,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/dac326474d6d7eb4b8f77074edb8b8cf583eaefc61eff1.png"
+        },
+        {
+            "name": "Phức Hợp Kiếm",
+            "equipId": 1134,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2ed0a1b9762b0eaed6ef8c26f69fabb0583eaf5e888731.png"
+        },
+        {
+            "name": "Song Đao Bão Táp",
+            "equipId": 1136,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/42d4233ea5d7ed2db0af6ae09c5686d9583eafd6a6f201.png"
+        },
+        {
+            "name": "Nanh Fenrir",
+            "equipId": 1138,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7ccbeb5a9d92d6616b38fb9f8a6d697f583eb0099ad9e1.png"
+        },
+        {
+            "name": "Gươm Sấm Sét",
+            "equipId": 1142,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/f2ae054a4509ca5bfbf6c1246d6a0e7d583eaf9d711da1.png"
+        },
+        {
+            "name": "Vuốt Hung Tàn",
+            "equipId": 11361,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/c65bf282a71890970ac6880b773460945965d91139a151.png"
+        },
+        {
+            "name": "Thương Xuyên Phá",
+            "equipId": 1144,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/b3d3556b6bd3eaf5e90b966647b6d8a75976bb54845d91.png"
+        },
+        {
+            "name": "Chuỳ Băng Sương",
+            "equipId": 1152,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2025/07/Chuy-bang-suong.png"
+        },
+        {
+            "name": "Diệt Thần Cung",
+            "equipId": 1141,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/11/diet-than-cung.png"
+        },
+        {
+            "name": "Trượng Bùng Nổ",
+            "equipId": 1233,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/3cdbf8caaf2dc260fd962f5d31c074c5583eb2abdcb021.png"
+        },
+        {
+            "name": "Vương Miện Hecate",
+            "equipId": 1232,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/29845a83cf9ddd3d17e0fcd07aabe61e583eb2e7b1a651.png"
+        },
+        {
+            "name": "Ngọc Đại Pháp Sư",
+            "equipId": 1237,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/5e2bc1f8eb06b085df149928bb6db37f583eb34e349451.png"
+        },
+        {
+            "name": "Quyền Trượng Rhea",
+            "equipId": 1227,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/2eabc8620f02b21582e3b88ea1f95f40583eb3ad4c2941.png"
+        },
+        {
+            "name": "Thập Tự Kiếm",
+            "equipId": 1228,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icona69219340114945bffc9ee0648b76df659eebed145bd21.png"
+        },
+        {
+            "name": "Trượng Băng",
+            "equipId": 1234,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/18a94ba7877043520ad478e08bc4b0bc583eb43f03b4d1.png"
+        },
+        {
+            "name": "Mặt Nạ Berith",
+            "equipId": 1235,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/722dfa95e17bc0ae4fca1370b39db24e583eb4a552d901.png"
+        },
+        {
+            "name": "Gươm Tận Thế",
+            "equipId": 1236,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/fae96e865899f2e3e2cda185b58aee12583eafaae4a281.png"
+        },
+        {
+            "name": "Gươm Hiền Triết",
+            "equipId": 1239,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/a9f9ae5e132e65a1711d6c59bb616dff583eb0417f88d1.png"
+        },
+        {
+            "name": "Sách Thánh",
+            "equipId": 1238,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/13b087b42ee35a7138a782d260cff7c9583eb099e321d1.png"
+        },
+        {
+            "name": "Quả Cầu Băng Sương",
+            "equipId": 1242,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconf30f58d64f6de018d472a24497b8e8475ef414dc8c8931.png"
+        },
+        {
+            "name": "Băng Nhẫn Skadi",
+            "equipId": 1243,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/ff28203912b57f6855013cad060d0f8f5e45355793b4d1.png"
+        },
+        {
+            "name": "Ma Pháp Trường Bào",
+            "equipId": 1248,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2025/07/Ma-phap-truong-bao-1.jpg"
+        },
+        {
+            "name": "Áo Choàng Thần Ra",
+            "equipId": 1331,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/iconc412f57b9e56e33473ff1a7c87f64c3c5c8b6e31b77f71.png"
+        },
+        {
+            "name": "Khiên Thất Truyền",
+            "equipId": 1336,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/098ae164502918650b6334ce885d7d71583eb5aa4f7e31.png"
+        },
+        {
+            "name": "Khiên Huyền Thoại",
+            "equipId": 1333,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/22878b0202ea24b883044a9c642d5536583eb618cf2971.png"
+        },
+        {
+            "name": "Giáp Gaia",
+            "equipId": 1334,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/9f2d442bf8b0f7597bd23de1af9c1ba9583eb6859264b1.png"
+        },
+        {
+            "name": "Huân Chương Troy",
+            "equipId": 1335,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/7c7e5cbc16a0a12b0363ffec0dd4bbe0583eb735ebea21.png"
+        },
+        {
+            "name": "Giáp Hộ Mệnh",
+            "equipId": 1337,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon6b6c892834f3b9840bec892627dbeedb5b87c72793cd01.png"
+        },
+        {
+            "name": "Áo Choàng Băng Giá",
+            "equipId": 13310,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icon55eaf54151e5f99b1442aceb380cb3cf58536633305011.png"
+        },
+        {
+            "name": "Phù Chú Trường Sinh",
+            "equipId": 1339,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icond155d1aa807b4022dd22a16cfa171d5f5853665105cd41.png"
+        },
+        {
+            "name": "Nham Thuẫn",
+            "equipId": 1340,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/icone5253595746abc893db9abe7568410315ef414f03aac11.png"
+        },
+        {
+            "name": "Gươm Loki",
+            "equipId": 1531,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/e0c0df64d8c799425e512a41035121625875eeb337a461.png"
+        },
+        {
+            "name": "Rìu Leviathan",
+            "equipId": 1532,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/5cbcea0c03cb8fbcffef6706943b59095875ef42bc1b91.png"
+        },
+        {
+            "name": "Kiếm Truy Hồn",
+            "equipId": 1533,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/962f75587871dfe385b2eed0071fd80f5875efc662a801.png"
+        },
+        {
+            "name": "Cung Bão Tố",
+            "equipId": 1534,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/8f835e52d8078207bb955bc2657867ba5ac48dd56f1791.png"
+        },
+        {
+            "name": "Đại Địa Thần Khiên",
+            "equipId": 16211,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16211.png"
+        },
+        {
+            "name": "Đại Địa Ma Nhãn",
+            "equipId": 16212,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16212.png"
+        },
+        {
+            "name": "Đại Địa Thần Tốc",
+            "equipId": 16213,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16217.png"
+        },
+        {
+            "name": "Đại Địa Mở Trói",
+            "equipId": 16214,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16214.png"
+        },
+        {
+            "name": "Đại Địa Hồi Huyết",
+            "equipId": 16215,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16216.png"
+        },
+        {
+            "name": "Liệt Hoả Thần Khiên",
+            "equipId": 16231,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16231.png"
+        },
+        {
+            "name": "Liệt Hoả Ma Nhãn",
+            "equipId": 16232,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16232.png"
+        },
+        {
+            "name": "Liệt Hoả Thần Tốc",
+            "equipId": 16233,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16237.png"
+        },
+        {
+            "name": "Liệt Hoả Mở Trói",
+            "equipId": 16234,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16234.png"
+        },
+        {
+            "name": "Liệt Hoả Hồi Huyết",
+            "equipId": 16235,
+            "data": "https://lienquan.garena.vn/wp-content/uploads/2024/05/16236.png"
+        },
+        {
+            "name": "Coin Image Default",
+            "equipId": 999999,
+            "data": "https://lienquan.garena.vn/wp-content/themes/aov-2024/assets/img/icon-gold.png"
         }
     ],
     "minionsOptions": [
@@ -781,37 +1526,31 @@
             "name": "Mặc Định",
             "subtitle": "Lính mặc định",
             "minionId": 93000,
-            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/normal.png"
+            "data": "ẢNH LÍNH"
         },
         {
             "name": "Thám Tử Lừng Danh Conan",
             "subtitle": "Trang phục lính siêu cấp - Collab",
             "minionId": 93001,
-            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/conan.png"
+            "data": "ẢNH LÍNH"
         },
         {
             "name": "Chuyển Sinh Thành Slime",
             "subtitle": "Yêu tinh, tấn công! - Collab",
             "minionId": 93002,
-            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/goblin.png"
+            "data": "ẢNH LÍNH"
         },
         {
             "name": "Biệt đội Cinnamon Desert",
             "subtitle": "Biệt đội Cinnamon Desert - Collab",
             "minionId": 93003,
-            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/cinnamon.png"
+            "data": "ẢNH LÍNH"
         },
         {
-            "name": "Turbo Bà Bà",
-            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/turbo.png",
-            "minionId": 93005,
-            "subtitle": "Collab Dandadan"
-        },
-        {
-            "name": "Titan, Tiến công",
-            "subtitle": "Titan Tập Hợp",
+            "name": "Đại chiến người khổng lồ",
+            "subtitle": "Attack On Titan - Collab",
             "minionId": 93004,
-            "data": "https://raw.githubusercontent.com/apkqiuyak/data/refs/heads/main/army/titan.png"
+            "data": "ẢNH LÍNH"
         }
     ]
 }
