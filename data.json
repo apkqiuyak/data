@@ -1551,11 +1551,11 @@
             "subtitle": "Attack On Titan - Collab",
             "minionId": 93004,
             "data": "https://raw.githubusercontent.com/apkqiuyak/data/main/army/titan.png"
-        }
+        },
         {
             "name": "Turbo - Bà Bà",
             "subtitle": "Lính Chủ Đề Động Cơ",
-            "minionId": "93005",
+            "minionId": 93005,
             "data": "https://raw.githubusercontent.com/apkqiuyak/data/main/army/turbo.png"
         }
     ]
