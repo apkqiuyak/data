@@ -108,7 +108,7 @@
         {
             "name": "Mặc Định Theo Skin",
             "killMode": 0,
-            "data": ""
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/main/notify_icon/macdinh.PNG"
         },
         {
             "name": "Airi Thứ Nguyên Vệ Thần",
@@ -512,7 +512,7 @@
         {
             "name": "Mặc Định Theo Skin",
             "skinId": 0,
-            "data": ""
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/main/nut_macdinh.png"
         },
         {
             "name": "Airi Thứ Nguyên Vệ Thần",
