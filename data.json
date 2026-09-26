@@ -1526,31 +1526,37 @@
             "name": "Mặc Định",
             "subtitle": "Lính mặc định",
             "minionId": 93000,
-            "data": "ẢNH LÍNH"
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/main/army/normal.png"
         },
         {
             "name": "Thám Tử Lừng Danh Conan",
             "subtitle": "Trang phục lính siêu cấp - Collab",
             "minionId": 93001,
-            "data": "ẢNH LÍNH"
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/main/army/conan.png"
         },
         {
             "name": "Chuyển Sinh Thành Slime",
             "subtitle": "Yêu tinh, tấn công! - Collab",
             "minionId": 93002,
-            "data": "ẢNH LÍNH"
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/main/army/goblin.png"
         },
         {
             "name": "Biệt đội Cinnamon Desert",
             "subtitle": "Biệt đội Cinnamon Desert - Collab",
             "minionId": 93003,
-            "data": "ẢNH LÍNH"
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/main/army/cinnamon.png"
         },
         {
             "name": "Đại chiến người khổng lồ",
             "subtitle": "Attack On Titan - Collab",
             "minionId": 93004,
-            "data": "ẢNH LÍNH"
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/main/army/titan.png"
+        }
+        {
+            "name": "Turbo - Bà Bà",
+            "subtitle": "Lính Chủ Đề Động Cơ",
+            "minionId": "93005",
+            "data": "https://raw.githubusercontent.com/apkqiuyak/data/main/army/turbo.png"
         }
     ]
 }
