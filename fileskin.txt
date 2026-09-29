@@ -1,8 +1,8 @@
-strContent = File được hoàn thành bởi <b><i>TùngAoV TV</i></b>.\n<color=#FF0000>Youtuber</color>: <b><i>TùngAoV TV</i></b>.\n<color=#00BFFF>Telegram</color>: Skill File TùngAoV TV.\n\nĐể được hỗ trợ, vui lòng nhắn qua <color=#00BFFF>Telegram</color>.\nĐể tiếp tục vào game trải nghiệm, hãy nhấn "Đã hiểu"\n
+titleStr = Lưu ý
+strContent = <color=#68B8EA>FILE ĐƯỢC HOÀN THÀNH BỞI</color>\n\n• Tác Giả: <color=#E2C872>TUMADAMxNT MOBA</color>\n• Website: <color=#00FF80>Tumadam.com</color>\n• Để đăng ký kênh thì bấm vào nút: <color=#FF4500>ĐĂNG KÝ</color>
 hasCancelBtn = true
-onConfirm = nil
-onCancel = https://youtube.com/@tungmodaov2
-confirmStr = Đã hiểu
-cancelStr = Youtube Channel
-titleStr = File Trải Nghiệm by YTB: <b><i>TùngAoV TV</i></b>
+confirmStr = Nhóm Telegram
+cancelStr = Đăng Ký
+onConfirm = https://t.me/tumadammod1
+onCancel = https://youtube.com/@ntmoba1265
 isShowCloseBtn = true
