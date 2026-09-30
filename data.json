@@ -563,6 +563,12 @@
             "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305485head.jpg"
         },
         {
+            "name": "Bijan Hẹn Ước Tình Yêu",
+            "skinId": 83,
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/54807.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305487head.jpg"
+        },
+        {
             "name": "Billow T-Rex Bất Bại",
             "skinId": 56,
             "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59902.png",
@@ -579,6 +585,12 @@
             "skinId": 22,
             "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59702.png",
             "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305972head.jpg"
+        },
+        {
+            "name": "Biron Deathmerc",
+            "skinId": 79,
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59703.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305973head.jpg"
         },
         {
             "name": "Butterfly Bình Minh Tận Thế",
@@ -737,6 +749,12 @@
             "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3013116head.jpg"
         },
         {
+            "name": "Maloch bách tướng ma nhân",
+            "skinId": 85,
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/12313.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3012313head.jpg"
+        },
+        {
             "name": "Nakroth Bạch Diện Chiến Thương",
             "skinId": 17,
             "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/15015.png",
@@ -819,6 +837,12 @@
             "skinId": 40,
             "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/19109.png",
             "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/301919head.jpg"
+        },
+        {
+            "name": "Rouie Hẹn Ước Tình Yêu",
+            "skinId": 84,
+            "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/19111.png",
+            "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3019111head.jpg"
         },
         {
             "name": "Stuart Siêu Trùm Phản Diện",
