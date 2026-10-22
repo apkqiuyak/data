@@ -641,7 +641,7 @@
     {
       "name": "Capheny  ECHO",
       "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/52417.png",
-      "skinId": 17,
+      "skinId": 92,
       "heroId": 524,
       "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3052417head.jpg"
     },
@@ -690,7 +690,7 @@
     {
       "name": "Edras Xích Hỏa Huyền Sương",
       "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/59501.png",
-      "skinId": 1,
+      "skinId": 93,
       "heroId": 595,
       "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305951head.jpg"
     },
@@ -962,7 +962,7 @@
     {
       "name": "Veres ECHO",
       "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/52016.png",
-      "skinId": 16,
+      "skinId": 90,
       "heroId": 520,
       "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3052016head.jpg"
     },
@@ -975,7 +975,7 @@
     {
       "name": "Violet ECHO",
       "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/11122.png",
-      "skinId": 22,
+      "skinId": 89,
       "heroId": 111,
       "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/3011122head.jpg"
     },
@@ -1018,7 +1018,7 @@
     {
       "name": "Yue ECHO",
       "data": "https://dl.ops.kgth.garenanow.com/TH/IconPic/54508.png",
-      "skinId": 8,
+      "skinId": 91,
       "heroId": 545,
       "skinIcon": "https://dl.ops.kgvn.garenanow.com/hok/VN/HeroHeadPath/305458head.jpg"
     },
